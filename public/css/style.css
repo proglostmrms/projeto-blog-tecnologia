@@ -39,20 +39,7 @@ nav{
     font-family: sans-serif;
 }
 
-#home:hover{
-    color: rgb(132,14,201);
-    transition: 0.3s all;
-}
-#noticias:hover{
-    color: rgb(132,14,201);
-    transition: 0.3s all;
-}
-#sobre-nos:hover{
-    color: rgb(132,14,201);
-    transition: 0.3s all;
-}
-
-#contato:hover{
+#home:hover, #noticias:hover, #sobre-nos:hover, #contato:hover{
     color: rgb(132,14,201);
     transition: 0.3s all;
 }
